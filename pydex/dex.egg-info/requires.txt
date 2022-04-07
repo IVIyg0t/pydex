@@ -1,0 +1,10 @@
+pydantic
+httpx
+
+[dev]
+pydantic
+httpx
+
+[docs]
+
+[test]
